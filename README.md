@@ -146,13 +146,5 @@ It is **not intended to replace professional medical advice, diagnosis, or treat
 
 This project was developed as part of coursework at the **Technical University of Denmark (DTU)**, focusing on **human-centered digital health interventions and behavioral design**.
 
----
-
-If you want, I can also make this **much more attractive for GitHub** by adding:
-
-* **badges (DTU, UX, Health Tech, Figma)**
-* **app screenshots section**
-* **architecture diagram**
-* **installation/demo instructions**
 
 This will make your repository look **like a real startup or product project**, not just a course submission.
