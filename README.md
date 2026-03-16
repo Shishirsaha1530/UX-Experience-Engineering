@@ -1,7 +1,3 @@
-Below is a **clean, well-structured GitHub README** rewritten in standard **GitHub Markdown style**. It keeps your content but improves **formatting, clarity, headings, and professionalism**, which is important for academic and portfolio repositories.
-
----
-
 # DailyNudge: Personalized, Real-Time Nudges for Better Health
 
 **DailyNudge** is a preventative micro-intervention system designed to help people turn health intentions into daily actions. Developed at the **Technical University of Denmark (DTU)**, the project uses smartphone and smartwatch signals to deliver **timely, low-effort nudges** that encourage healthier habits without requiring constant manual tracking.
