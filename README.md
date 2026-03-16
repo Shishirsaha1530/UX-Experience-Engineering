@@ -1,130 +1,158 @@
+Below is a **clean, well-structured GitHub README** rewritten in standard **GitHub Markdown style**. It keeps your content but improves **formatting, clarity, headings, and professionalism**, which is important for academic and portfolio repositories.
+
+---
+
 # DailyNudge: Personalized, Real-Time Nudges for Better Health
 
-**DailyNudge** is a preventative micro-intervention system designed to bridge the gap between health intentions and daily actions. Developed at the **Technical University of Denmark**, this project leverages smartphone and smartwatch technology to deliver timely, low-effort prompts that help sedentary adults build healthier habits without the burden of manual tracking.
+**DailyNudge** is a preventative micro-intervention system designed to help people turn health intentions into daily actions. Developed at the **Technical University of Denmark (DTU)**, the project uses smartphone and smartwatch signals to deliver **timely, low-effort nudges** that encourage healthier habits without requiring constant manual tracking.
+
+The system targets sedentary adults who struggle to maintain healthy routines due to busy schedules, stress, and prolonged sitting.
 
 ---
 
-## 🚀 The Core Concept
+# 🚀 The Core Concept
 
-Most people know they should move more or drink more water, but busy routines and "sitting fatigue" often get in the way. **DailyNudge** focuses on small, realistic steps that can be done immediately—like a 2-minute walk after long periods of sitting or a quick breathing reset during high-stress moments.
+Many people understand the importance of moving more, drinking enough water, or managing stress. However, modern routines often lead to **long periods of inactivity and cognitive overload**, making healthy choices difficult.
 
-### Key Features
+**DailyNudge focuses on small, achievable actions** that users can perform immediately, such as:
 
-* 
-**Smart Movement Reminders**: Detects prolonged inactivity and prompts short movement breaks (e.g., a 2–3 minute walk).
+* taking a **2-minute walk after prolonged sitting**
+* drinking water after meals
+* doing a **short breathing exercise during stressful moments**
 
-
-* 
-**Post-Meal Guidance**: Uses meal timing to suggest light activity or hydration to support metabolic stability.
-
-
-* 
-**Stress Regulation**: Delivers brief calming or breathing prompts when elevated stress patterns are detected.
-
-
-* 
-**Personalization**: Users can set "Quiet Hours," daily nudge limits, and choose specific focus areas like hydration or sleep.
-
-
+The goal is to make healthy behavior **simple, contextual, and sustainable**.
 
 ---
 
-## 🛠 Problem & Solution
+# ✨ Key Features
 
-| The Problem | The DailyNudge Solution |
-| --- | --- |
-| <br>**Prolonged Sitting**: Reduces insulin sensitivity and overall well-being.
+### Smart Movement Reminders
 
- | <br>**Context-Aware Nudges**: Triggers a nudge at the exact moment of inactivity.
+Detects prolonged inactivity and sends gentle prompts encouraging users to take short movement breaks (e.g., a **2–3 minute walk**).
 
- |
-| <br>**Poor Meal Timing**: Causes glucose spikes and unhealthy daily patterns.
+### Post-Meal Guidance
 
- | <br>**Timely Suggestions**: Prompts post-meal movement or hydration.
+Uses meal timing signals to suggest light movement or hydration to help maintain metabolic stability.
 
- |
-| <br>**Chronic Stress**: Disrupts self-regulation and routine balance.
+### Stress Regulation
 
- | <br>**Quick Resets**: Offers 45-second breathing exercises to lower stress.
+Identifies stress patterns and offers quick calming activities, such as **45-second breathing exercises**.
 
- |
+### Personalization
 
----
+Users can customize their experience by:
 
-## 🔄 Iterative Development
-
-The project followed the **D-MIST framework**, evolving through four distinct iterations to refine its focus:
-
-* 
-**Initial Iteration**: Validated the problem segment through desk research and Lean Canvas modeling.
-
-
-* 
-**Iteration 1**: Developed high-fidelity Figma wireframes and established onboarding flows.
-
-
-* 
-**Iteration 2**: Focused on tone and usability, ensuring nudges felt "supportive" rather than "instructional".
-
-
-* 
-**Iteration 3**: Simplified the UI to reduce cognitive load, moving toward a minimal, "calmer" aesthetic.
-
-
-* 
-**The Pivot (Iteration 4)**: Rebranded from **GlucoNudge** to **DailyNudge** to emphasize habit-building over medical tracking, and introduced a green, health-focused color scheme.
-
-
+* setting **Quiet Hours**
+* limiting the number of daily nudges
+* selecting focus areas (movement, hydration, stress, sleep)
 
 ---
 
-## 🔗 Project Resources
+# 🛠 Problem & Solution
 
-* 
-**Interactive Prototype**: [Click here to see the Prototype](https://www.google.com/search?q=https://www.figma.com/proto/your-link-here) 
-
-
-* 
-**Annotated Wireframes**: [Click here to see the Annotated Wireframe clearly](https://www.google.com/search?q=https://www.figma.com/file/your-link-here) 
-
-
+| Problem                                                                   | DailyNudge Solution                                                              |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Prolonged Sitting** reduces insulin sensitivity and overall well-being. | **Context-Aware Nudges** trigger movement reminders when inactivity is detected. |
+| **Irregular Meal Habits** can lead to metabolic instability.              | **Post-Meal Suggestions** encourage hydration or light activity.                 |
+| **Chronic Stress** disrupts self-regulation and productivity.             | **Quick Reset Exercises** provide short breathing interventions.                 |
 
 ---
 
-## 👥 Group 50 Contributors
+# 🔄 Iterative Development
 
-All members contributed equally to the research, design, and reporting of DailyNudge:
+The project followed the **D-MIST framework**, progressing through several design iterations.
 
-* 
-**Andrei Popa** (s240159) 
+### Initial Iteration
 
+* Problem validation through **desk research**
+* Development of a **Lean Canvas** model
+* Identification of the target user segment
 
-* 
-**Mahdi Ibrahimi** (s210077) 
+### Iteration 1
 
+* Creation of **high-fidelity Figma wireframes**
+* Development of onboarding flows
+* Early interface structure
 
-* 
-**Nikita Rijal** (s250160) 
+### Iteration 2
 
+* Improved **tone and communication style**
+* Nudges redesigned to feel **supportive rather than instructive**
 
-* 
-**Shishir Saha** (s250162) 
+### Iteration 3
 
+* Simplified user interface
+* Reduced cognitive load
+* Focused on a **minimal and calm design language**
 
-* 
-**Md Sabbir Hossain** (s250143) 
+### Iteration 4 — The Pivot
 
-
-* 
-**Mateo Iturmendi** (s225095) 
-
-
+* Rebranded from **GlucoNudge** to **DailyNudge**
+* Shifted from medical-style tracking to **habit-building**
+* Introduced a **green health-oriented color scheme**
 
 ---
 
-> 
-> **Note**: This system is designed for preventative support and habit maintenance; it is not intended to replace medical care or clinical diagnosis.
-> 
-> 
+# 📱 System Concept
 
-Would you like me to draft a sample "Product Hunt" post or a marketing blurb based on this README?
+DailyNudge integrates data from:
+
+* **Smartphones**
+* **Smartwatches**
+* **Behavioral patterns**
+
+These inputs allow the system to detect **contextual moments** where a small intervention can have the greatest impact.
+
+Instead of tracking everything, the system focuses on **timely guidance at key behavioral moments**.
+
+---
+
+# 🔗 Project Resources
+
+### Interactive Prototype
+
+👉 [https://www.figma.com/proto/your-link-here](https://www.figma.com/proto/your-link-here)
+
+### Annotated Wireframes
+
+👉 [https://www.figma.com/file/your-link-here](https://www.figma.com/file/your-link-here)
+
+*(Replace these with your actual Figma links.)*
+
+---
+
+# 👥 Group 50 Contributors
+
+All members contributed equally to the research, design, and reporting of **DailyNudge**.
+
+* **Andrei Popa** — s240159
+* **Mahdi Ibrahimi** — s210077
+* **Nikita Rijal** — s250160
+* **Shishir Saha** — s250162
+* **Md Sabbir Hossain** — s250143
+* **Mateo Iturmendi** — s225095
+
+---
+
+# ⚠️ Disclaimer
+
+DailyNudge is designed for **preventative health support and habit development**.
+
+It is **not intended to replace professional medical advice, diagnosis, or treatment**.
+
+---
+
+# 📚 Academic Context
+
+This project was developed as part of coursework at the **Technical University of Denmark (DTU)**, focusing on **human-centered digital health interventions and behavioral design**.
+
+---
+
+If you want, I can also make this **much more attractive for GitHub** by adding:
+
+* **badges (DTU, UX, Health Tech, Figma)**
+* **app screenshots section**
+* **architecture diagram**
+* **installation/demo instructions**
+
+This will make your repository look **like a real startup or product project**, not just a course submission.
