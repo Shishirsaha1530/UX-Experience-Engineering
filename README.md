@@ -107,7 +107,7 @@ Instead of tracking everything, the system focuses on **timely guidance at key b
 
 ### Interactive Prototype
 
-👉 [[https://www.figma.com/proto/your-link-here](https://www.figma.com/proto/your-link-here)](https://www.figma.com/proto/Dqr9GDTlkGbbxffEJWoMNj/DailyNudge?node-id=0-1&p=f&t=YbtBxPvDahRSRXkr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
+👉 (https://www.figma.com/proto/your-link-here)](https://www.figma.com/proto/Dqr9GDTlkGbbxffEJWoMNj/DailyNudge?node-id=0-1&p=f&t=YbtBxPvDahRSRXkr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
 
 ### Annotated Wireframes
 ---
