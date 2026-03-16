@@ -109,9 +109,6 @@ Instead of tracking everything, the system focuses on **timely guidance at key b
 
 👉 https://www.figma.com/proto/Dqr9GDTlkGbbxffEJWoMNj/DailyNudge?node-id=1-3&p=f&t=787sAOgFBxdyLsla-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
 
-### Annotated Wireframes
----
-
 # 👥 Group 50 Contributors
 
 All members contributed equally to the research, design, and reporting of **DailyNudge**.
