@@ -1,6 +1,5 @@
 # DailyNudge: Personalized, Real-Time Nudges for Better Health
-
-![DailyNudge Landing Page](./LandingPage.png)
+<img width="1402" height="2053" alt="LandingPage" src="https://github.com/user-attachments/assets/20ab787c-d8a0-4c5b-a0f3-5b5c3e1f4f16" />
 
 **DailyNudge** is a preventative micro-intervention system designed to help people turn health intentions into daily actions. Developed at the **Technical University of Denmark (DTU)**, the project uses smartphone and smartwatch signals to deliver **timely, low-effort nudges** that encourage healthier habits without requiring constant manual tracking.
 
