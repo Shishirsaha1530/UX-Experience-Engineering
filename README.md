@@ -1,5 +1,7 @@
 # DailyNudge: Personalized, Real-Time Nudges for Better Health
 
+![DailyNudge Landing Page](./LandingPage.png)
+
 **DailyNudge** is a preventative micro-intervention system designed to help people turn health intentions into daily actions. Developed at the **Technical University of Denmark (DTU)**, the project uses smartphone and smartwatch signals to deliver **timely, low-effort nudges** that encourage healthier habits without requiring constant manual tracking.
 
 The system targets sedentary adults who struggle to maintain healthy routines due to busy schedules, stress, and prolonged sitting.
@@ -109,16 +111,18 @@ Instead of tracking everything, the system focuses on **timely guidance at key b
 
 👉 https://www.figma.com/proto/Dqr9GDTlkGbbxffEJWoMNj/DailyNudge?node-id=1-3&p=f&t=787sAOgFBxdyLsla-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
 
+---
+
 # 👥 Group 50 Contributors
 
 All members contributed equally to the research, design, and reporting of **DailyNudge**.
 
-* **Andrei Popa** — s240159
-* **Mahdi Ibrahimi** — s210077
-* **Nikita Rijal** — s250160
-* **Shishir Saha** — s250162
-* **Md Sabbir Hossain** — s250143
-* **Mateo Iturmendi** — s225095
+* **Andrei Popa** — s240159  
+* **Mahdi Ibrahimi** — s210077  
+* **Nikita Rijal** — s250160  
+* **Shishir Saha** — s250162  
+* **Md Sabbir Hossain** — s250143  
+* **Mateo Iturmendi** — s225095  
 
 ---
 
@@ -133,6 +137,3 @@ It is **not intended to replace professional medical advice, diagnosis, or treat
 # 📚 Academic Context
 
 This project was developed as part of coursework at the **Technical University of Denmark (DTU)**, focusing on **human-centered digital health interventions and behavioral design**.
-
-
-This will make your repository look **like a real startup or product project**, not just a course submission.
